@@ -54,4 +54,5 @@ Tell us about your business and what you want to build.
 - LinkedIn: [GFT Solutions](https://www.linkedin.com/company/gftsolutionsofficial)
 - Instagram: [@gftsolutionsofficial](https://www.instagram.com/gftsolutionsofficial/)
 - Facebook: [gftsolutionsofficial](https://www.facebook.com/gftsolutionsofficial)
+- Patreon: [behind-the-scenes updates](https://www.patreon.com/gftsolutionsofficial)
 - Location: Karachi, Pakistan
