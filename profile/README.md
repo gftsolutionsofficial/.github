@@ -51,4 +51,7 @@ Tell us about your business and what you want to build.
 
 - Website: [wearegft.com](https://www.wearegft.com)
 - Email: [info@wearegft.com](mailto:info@wearegft.com)
+- LinkedIn: [GFT Solutions](https://www.linkedin.com/company/gftsolutionsofficial)
+- Instagram: [@gftsolutionsofficial](https://www.instagram.com/gftsolutionsofficial/)
+- Facebook: [gftsolutionsofficial](https://www.facebook.com/gftsolutionsofficial)
 - Location: Karachi, Pakistan
